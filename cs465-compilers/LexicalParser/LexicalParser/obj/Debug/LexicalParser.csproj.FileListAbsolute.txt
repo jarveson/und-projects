@@ -1,0 +1,12 @@
+c:\users\jacob.arveson\documents\visual studio 2012\Projects\LexicalParser\LexicalParser\bin\Debug\LexicalParser.exe.config
+c:\users\jacob.arveson\documents\visual studio 2012\Projects\LexicalParser\LexicalParser\obj\Debug\LexicalParser.csprojResolveAssemblyReference.cache
+c:\users\jacob.arveson\documents\visual studio 2012\Projects\LexicalParser\LexicalParser\bin\Debug\LexicalParser.exe
+c:\users\jacob.arveson\documents\visual studio 2012\Projects\LexicalParser\LexicalParser\bin\Debug\LexicalParser.pdb
+c:\users\jacob.arveson\documents\visual studio 2012\Projects\LexicalParser\LexicalParser\obj\Debug\LexicalParser.exe
+c:\users\jacob.arveson\documents\visual studio 2012\Projects\LexicalParser\LexicalParser\obj\Debug\LexicalParser.pdb
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\LexicalParser\LexicalParser\bin\Debug\LexicalParser.exe.config
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\LexicalParser\LexicalParser\obj\Debug\LexicalParser.exe
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\LexicalParser\LexicalParser\obj\Debug\LexicalParser.pdb
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\LexicalParser\LexicalParser\obj\Debug\LexicalParser.csprojResolveAssemblyReference.cache
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\LexicalParser\LexicalParser\bin\Debug\LexicalParser.exe
+C:\Users\Jake\Documents\Visual Studio 2012\Projects\LexicalParser\LexicalParser\bin\Debug\LexicalParser.pdb
